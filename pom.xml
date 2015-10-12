@@ -76,7 +76,7 @@
 
     <!-- Main Build -->
     <build>
-        <finalName>blood-${project.version}</finalName>
+        <finalName>myapp-${project.version}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
